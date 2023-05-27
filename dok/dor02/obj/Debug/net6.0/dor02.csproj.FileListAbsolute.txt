@@ -1,0 +1,15 @@
+C:\Users\джайн\Desktop\Task\Home\dok\dor02\bin\Debug\net6.0\dor02.exe
+C:\Users\джайн\Desktop\Task\Home\dok\dor02\bin\Debug\net6.0\dor02.deps.json
+C:\Users\джайн\Desktop\Task\Home\dok\dor02\bin\Debug\net6.0\dor02.runtimeconfig.json
+C:\Users\джайн\Desktop\Task\Home\dok\dor02\bin\Debug\net6.0\dor02.dll
+C:\Users\джайн\Desktop\Task\Home\dok\dor02\bin\Debug\net6.0\dor02.pdb
+C:\Users\джайн\Desktop\Task\Home\dok\dor02\obj\Debug\net6.0\dor02.csproj.AssemblyReference.cache
+C:\Users\джайн\Desktop\Task\Home\dok\dor02\obj\Debug\net6.0\dor02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\джайн\Desktop\Task\Home\dok\dor02\obj\Debug\net6.0\dor02.AssemblyInfoInputs.cache
+C:\Users\джайн\Desktop\Task\Home\dok\dor02\obj\Debug\net6.0\dor02.AssemblyInfo.cs
+C:\Users\джайн\Desktop\Task\Home\dok\dor02\obj\Debug\net6.0\dor02.csproj.CoreCompileInputs.cache
+C:\Users\джайн\Desktop\Task\Home\dok\dor02\obj\Debug\net6.0\dor02.dll
+C:\Users\джайн\Desktop\Task\Home\dok\dor02\obj\Debug\net6.0\refint\dor02.dll
+C:\Users\джайн\Desktop\Task\Home\dok\dor02\obj\Debug\net6.0\dor02.pdb
+C:\Users\джайн\Desktop\Task\Home\dok\dor02\obj\Debug\net6.0\dor02.genruntimeconfig.cache
+C:\Users\джайн\Desktop\Task\Home\dok\dor02\obj\Debug\net6.0\ref\dor02.dll
